@@ -68,7 +68,22 @@
 </head>
 <body>
   <div class="card">
-    <h2>Form Pendaftaran Pasien</h2>
+    <h2>PELINTAS</h2>
+    <h4>SILAHKAN DIBACA !!! <br> Form Pendaftaran Online ini ditujukan untuk PASIEN PRIORITAS yaitu :
+1. Ibu Hamil <br>
+2. Lansia (> 60 tahun) <br>
+3. Balita <br>
+<br>
+Syarat : <br>
+1. Pasien tersebut bukan peserta KIS FKTP Bangunsari dan bukan peserta BPJS Kesehatan(tidak memiliki KIS) <br>
+2. Pendaftaran khusus H-1 pada jam 08.00-17.00. Untuk hari Senin/Hari Libur pendaftaran pada hari aktif sebelumnya. <br>
+<br>
+Pasien sudah terdaftar apabila sudah menerima balasan chat NO ANTRIAN dari Kami.<br>
+
+Contact Person : 
+Puskesmas Bangunsari 082335638747 (chat only)
+</h4>
+
 
     <form id="registerForm">
     <label>Tanggal Pemeriksaan
